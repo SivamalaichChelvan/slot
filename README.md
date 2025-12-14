@@ -31,7 +31,7 @@ Execute the program using runserver command.
     <title>Slot Time Table - </title>
 </head>
 <body>
-    <IMG SRC="logo.png"HEIGHT="150"WIDTH="500"BORDER=6>
+    <!-- <IMG SRC="logo.png"HEIGHT="150"WIDTH="500"BORDER=6> -->
     <h2>Saveetha Engineering College</h2>
     <h3>SLOT TIME TABLE - SIVAMALAICH CHELVAN</h3>
 
